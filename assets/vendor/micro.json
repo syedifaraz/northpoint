@@ -1,0 +1,852 @@
+{
+data : [
+  {
+    "product": "Azilide 250 mg Tablet",
+    "division": "Nova"
+  },
+  {
+    "product": "Azilide 500 mg Tablet",
+    "division": "Nova"
+  },
+  {
+    "product": "Folfit Tablet",
+    "division": "Nova"
+  },
+  {
+    "product": "Ginkoba M Capsule",
+    "division": "Nova"
+  },
+  {
+    "product": "Ginkoba Tablet",
+    "division": "Nova"
+  },
+  {
+    "product": "Microcef CV 100 mg",
+    "division": "Nova"
+  },
+  {
+    "product": "Microcef CV 200 mg",
+    "division": "Nova"
+  },
+  {
+    "product": "Microcef DT 100 mg",
+    "division": "Nova"
+  },
+  {
+    "product": "Microcef DT 200 mg",
+    "division": "Nova"
+  },
+  {
+    "product": "Dilate E/E Drops",
+    "division": "Vision"
+  },
+  {
+    "product": "Flurisone Eye Drops",
+    "division": "Vision"
+  },
+  {
+    "product": "Herprex Eye Oint",
+    "division": "Vision"
+  },
+  {
+    "product": "Lubrex DS Eye/E Drops",
+    "division": "Vision"
+  },
+  {
+    "product": "Lubrex Eye Drops",
+    "division": "Vision"
+  },
+  {
+    "product": "Misopt Eye Drops",
+    "division": "Vision"
+  },
+  {
+    "product": "Moxigram Eye Drops",
+    "division": "Vision"
+  },
+  {
+    "product": "Moxigram Eye Oint",
+    "division": "Vision"
+  },
+  {
+    "product": "Moxigram KT E/D",
+    "division": "Vision"
+  },
+  {
+    "product": "Moxigram LX Drops",
+    "division": "Vision"
+  },
+  {
+    "product": "Oflacin Eye Drops",
+    "division": "Vision"
+  },
+  {
+    "product": "Dothip 25 mg",
+    "division": "Synepscy"
+  },
+  {
+    "product": "Dothip 50 mg",
+    "division": "Synepscy"
+  },
+  {
+    "product": "Dothip 75 mg",
+    "division": "Synepscy"
+  },
+  {
+    "product": "Neurica M 75 mg",
+    "division": "Synepscy"
+  },
+  {
+    "product": "Olan 10 mg",
+    "division": "Synepscy"
+  },
+  {
+    "product": "Olan 2.5 mg",
+    "division": "Synepscy"
+  },
+  {
+    "product": "Olan 5 mg",
+    "division": "Synepscy"
+  },
+  {
+    "product": "Petril 0.5 mg",
+    "division": "Synepscy"
+  },
+  {
+    "product": "Petril 1 mg",
+    "division": "Synepscy"
+  },
+  {
+    "product": "Petril 2 mg",
+    "division": "Synepscy"
+  },
+  {
+    "product": "Petril Beta 10 mg",
+    "division": "Synepscy"
+  },
+  {
+    "product": "Petril Beta 20 mg",
+    "division": "Synepscy"
+  },
+  {
+    "product": "Petril MD 0.25 mg",
+    "division": "Synepscy"
+  },
+  {
+    "product": "Petril MD 0.5 mg",
+    "division": "Synepscy"
+  },
+  {
+    "product": "Petril Plus",
+    "division": "Synepscy"
+  },
+  {
+    "product": "S Celepra 10 mg",
+    "division": "Synepscy"
+  },
+  {
+    "product": "S Celepra 20 mg",
+    "division": "Synepscy"
+  },
+  {
+    "product": "Valprid CR 200 mg",
+    "division": "Synepscy"
+  },
+  {
+    "product": "Valprid CR 300 mg",
+    "division": "Synepscy"
+  },
+  {
+    "product": "Valprid CR 500 mg",
+    "division": "Synepscy"
+  },
+  {
+    "product": "Versidep  Tablet",
+    "division": "Synepscy"
+  },
+  {
+    "product": "Versitol RTD 200 mg",
+    "division": "Synepscy"
+  },
+  {
+    "product": "Anorelife Cream",
+    "division": "Health Care"
+  },
+  {
+    "product": "Bonmin Capsule",
+    "division": "Health Care"
+  },
+  {
+    "product": "Bonmin K2 Capsule",
+    "division": "Health Care"
+  },
+  {
+    "product": "Cefglobe OZ Tablet",
+    "division": "Health Care"
+  },
+  {
+    "product": "Micropenam 500Injectionection",
+    "division": "Health Care"
+  },
+  {
+    "product": "Rabiros 20 mg",
+    "division": "Health Care"
+  },
+  {
+    "product": "Rabiros D Tablet",
+    "division": "Health Care"
+  },
+  {
+    "product": "Rabiros IT Capsule",
+    "division": "Health Care"
+  },
+  {
+    "product": "Rabiros L",
+    "division": "Health Care"
+  },
+  {
+    "product": "Tolpa Tablet",
+    "division": "Health Care"
+  },
+  {
+    "product": "Aziderm 10%",
+    "division": "Gratia"
+  },
+  {
+    "product": "Betagel G Cream",
+    "division": "Gratia"
+  },
+  {
+    "product": "Ferisome Tablet",
+    "division": "Gratia"
+  },
+  {
+    "product": "Herprex 200 mg Tablet",
+    "division": "Gratia"
+  },
+  {
+    "product": "Herprex 800 mg Tablet",
+    "division": "Gratia"
+  },
+  {
+    "product": "Herprex Ointment",
+    "division": "Gratia"
+  },
+  {
+    "product": "Kojivit Gel 15 gm",
+    "division": "Gratia"
+  },
+  {
+    "product": "Photoban 30 Lotion",
+    "division": "Gratia"
+  },
+  {
+    "product": "Photoban Aquagel 60 ml",
+    "division": "Gratia"
+  },
+  {
+    "product": "Divon AQ 1  ml",
+    "division": "Eros"
+  },
+  {
+    "product": "Divon Gel 30 mg",
+    "division": "Eros"
+  },
+  {
+    "product": "Erox CV 457 mg D/S",
+    "division": "Eros"
+  },
+  {
+    "product": "Erox CV 625 mg",
+    "division": "Eros"
+  },
+  {
+    "product": "Erox CV D/S",
+    "division": "Eros"
+  },
+  {
+    "product": "Esofag L 10s",
+    "division": "Eros"
+  },
+  {
+    "product": "Etrocia 90",
+    "division": "Eros"
+  },
+  {
+    "product": "Faronac Tablet",
+    "division": "Eros"
+  },
+  {
+    "product": "Montral Kid",
+    "division": "Eros"
+  },
+  {
+    "product": "Montral Syp",
+    "division": "Eros"
+  },
+  {
+    "product": "Montral Tablet",
+    "division": "Eros"
+  },
+  {
+    "product": "Nitra Gel",
+    "division": "Eros"
+  },
+  {
+    "product": "Nitra OR 100 ml",
+    "division": "Eros"
+  },
+  {
+    "product": "Pantocar 40 Tablet",
+    "division": "Eros"
+  },
+  {
+    "product": "Pantocar D Tablet",
+    "division": "Eros"
+  },
+  {
+    "product": "Pantocar L Capsule",
+    "division": "Eros"
+  },
+  {
+    "product": "Peak Haler INH",
+    "division": "Eros"
+  },
+  {
+    "product": "Rite O Cef 200 mg",
+    "division": "Eros"
+  },
+  {
+    "product": "Rite O Cef CV Syp",
+    "division": "Eros"
+  },
+  {
+    "product": "Ritocef CV 100 mg",
+    "division": "Eros"
+  },
+  {
+    "product": "Ritocef CV 200 mg",
+    "division": "Eros"
+  },
+  {
+    "product": "Ritolide 250",
+    "division": "Eros"
+  },
+  {
+    "product": "Diapride 1 mg",
+    "division": "D T F"
+  },
+  {
+    "product": "Diapride 2 mg",
+    "division": "D T F"
+  },
+  {
+    "product": "Diapride M 1 Forte",
+    "division": "D T F"
+  },
+  {
+    "product": "Diapride M1 HV",
+    "division": "D T F"
+  },
+  {
+    "product": "Diapride M 1 mg",
+    "division": "D T F"
+  },
+  {
+    "product": "Diapride M 2 Forte",
+    "division": "D T F"
+  },
+  {
+    "product": "Diapride M2 HV",
+    "division": "D T F"
+  },
+  {
+    "product": "Diapride M 2 mg",
+    "division": "D T F"
+  },
+  {
+    "product": "Meconerv Plus Capsule",
+    "division": "D T F"
+  },
+  {
+    "product": "Melmet 1000 mg SR Tablet",
+    "division": "D T F"
+  },
+  {
+    "product": "Melmet 500 mg SR Tablet",
+    "division": "D T F"
+  },
+  {
+    "product": "Obitrol 120 mg",
+    "division": "D T F"
+  },
+  {
+    "product": "Pregator Capsule",
+    "division": "D T F"
+  },
+  {
+    "product": "Tenepride 20 mg",
+    "division": "D T F"
+  },
+  {
+    "product": "Tenepride M 1000 mg",
+    "division": "D T F"
+  },
+  {
+    "product": "Tenepride M 500 mg",
+    "division": "D T F"
+  },
+  {
+    "product": "Tripride 1 Forte",
+    "division": "D T F"
+  },
+  {
+    "product": "Tripride 1 mg LP",
+    "division": "D T F"
+  },
+  {
+    "product": "Tripride 1 mg",
+    "division": "D T F"
+  },
+  {
+    "product": "Tripride 2 Forte",
+    "division": "D T F"
+  },
+  {
+    "product": "Tripride 2 mg",
+    "division": "D T F"
+  },
+  {
+    "product": "Usibon 150 mg",
+    "division": "D T F"
+  },
+  {
+    "product": "Voglinorm  gm Forte 2 mg",
+    "division": "D T F"
+  },
+  {
+    "product": "A mlong 10 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "A mlong 2.5 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "A mlong 5 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "A mlong A Tablet",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "A mlong H Tablet",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "A mlong MT 25 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "A mlozaar 50 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "A mlozaar H Tablet",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Angizaar 25 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Angizaar 50 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Angizaar H Tablet",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Avas 10 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Avas 20 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Avas 40 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Dianorm M Tablet",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Moxilong 0.2 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Nebilong AM Tablet",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Nebilong H Tablet",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Nebilong Tablet",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Nordys 200 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Nordys 400 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Olmat 20 AMH Tablet",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Olmat 20 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Olmat 40 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Olmat AM 20 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Olmat AM 40 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Olmat AMH 40 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Olmat H 40 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Olmat H Tablet",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Pionorm 15 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Pionorm M 30 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Plagerine A 75 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Plagerine Tablet",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Turbovas 10 mg Tablet",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Turbovas 20 mg Tablet",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Turbovas 40 mg",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Turbovas 5 mg Tablet",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "Turbovas ASP",
+    "division": "Carsiyon"
+  },
+  {
+    "product": "A mlong MT 50 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "A mlong TL 40 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Arbitel 20 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Arbitel 40 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Arbitel 80 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Arbitel AMH Tablet",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Arbitel AM Tablet",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Arbitel CT 40 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Arbitel CT 80 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Arbitel H 80 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Arbitel H Tablet",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Arbitel MT 25 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Arbitel MT 50 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Astin 10 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Fibrovas 160 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Hopace 2.5 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Hopace 5 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Hopace H 2.5 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Hopace H 5 mg Tablet",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Hopace H Tablet",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Hydride 12.5 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Hydride 25 Tablet",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Metapro 25 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Metapro 50 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Metapro XL 25 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Metapro XL 50 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Telpuls Tablet",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Telpuls Trio Tablet",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Torsinex 10 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Torsinex 20 mg",
+    "division": "Cardic Care"
+  },
+  {
+    "product": "Allercet M Syp",
+    "division": "Brown Buru"
+  },
+  {
+    "product": "Allercet M  Tablet",
+    "division": "Brown Buru"
+  },
+  {
+    "product": "Bactoclav 375 mg",
+    "division": "Brown Buru"
+  },
+  {
+    "product": "Bactoclav 625 mg",
+    "division": "Brown Buru"
+  },
+  {
+    "product": "Bactoclav DS 457 mg",
+    "division": "Brown Buru"
+  },
+  {
+    "product": "Bactoclav D/S",
+    "division": "Brown Buru"
+  },
+  {
+    "product": "Helirab 20 mg",
+    "division": "Brown Buru"
+  },
+  {
+    "product": "Helirab D",
+    "division": "Brown Buru"
+  },
+  {
+    "product": "Pulmocef 250 1*10",
+    "division": "Brown Buru"
+  },
+  {
+    "product": "Pulmocef 500 1*10",
+    "division": "Brown Buru"
+  },
+  {
+    "product": "Anxit 0.25 mg",
+    "division": "Main"
+  },
+  {
+    "product": "Anxit 0.5 mg",
+    "division": "Main"
+  },
+  {
+    "product": "Anxit Plus Tablet",
+    "division": "Main"
+  },
+  {
+    "product": "Beta Anxit 20 mg",
+    "division": "Main"
+  },
+  {
+    "product": "Brigrel Tablet",
+    "division": "Main"
+  },
+  {
+    "product": "Calosoft AF 100 ml",
+    "division": "Main"
+  },
+  {
+    "product": "Dolo 120 mg Susp",
+    "division": "Main"
+  },
+  {
+    "product": "Dolo 250 mg Syp",
+    "division": "Main"
+  },
+  {
+    "product": "Dolo 500 mg",
+    "division": "Main"
+  },
+  {
+    "product": "Dolo 650 mg",
+    "division": "Main"
+  },
+  {
+    "product": "Ebast 20 mg",
+    "division": "Main"
+  },
+  {
+    "product": "Ebast DC Tablet",
+    "division": "Main"
+  },
+  {
+    "product": "Ebast M  Tablet",
+    "division": "Main"
+  },
+  {
+    "product": "Ebast Tablet",
+    "division": "Main"
+  },
+  {
+    "product": "Erox CV 375 mg",
+    "division": "Main"
+  },
+  {
+    "product": "Esofag 40 mg",
+    "division": "Main"
+  },
+  {
+    "product": "Esofag D Capsule",
+    "division": "Main"
+  },
+  {
+    "product": "Faronac ER Tablet",
+    "division": "Main"
+  },
+  {
+    "product": "Gramocef CV 100 mg",
+    "division": "Main"
+  },
+  {
+    "product": "Gramocef CV 200 mg",
+    "division": "Main"
+  },
+  {
+    "product": "Gramocef O 100 mg",
+    "division": "Main"
+  },
+  {
+    "product": "Gramocef O 200 mg",
+    "division": "Main"
+  },
+  {
+    "product": "Microdox LBX Capsule",
+    "division": "Main"
+  },
+  {
+    "product": "Microfer 5 ml",
+    "division": "Main"
+  },
+  {
+    "product": "Ostogard  gm Tablet",
+    "division": "Main"
+  },
+  {
+    "product": "Turbovas F Tablet",
+    "division": "Main"
+  },
+  {
+    "product": "Udibon Tablet",
+    "division": "Main"
+  },
+  {
+    "product": "Usibon 300 mg",
+    "division": "Main"
+  }
+]
+}
